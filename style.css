@@ -1,0 +1,21 @@
+*{
+    font-family:Verdana, Tahoma, sans-serif ;
+    background-color: #f3e4f1;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+h1{
+    background-color: #f0fc6d;
+    text-align: center;
+}
+.list.one li{
+    color: #1f66f2;
+}
+.list.two li{
+    color: #f57f0a;
+}
+h2,h3{
+    text-decoration: underline;
+}
